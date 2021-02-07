@@ -1,0 +1,13 @@
+C:\Users\Tutku Ayavefe\source\repos\Program\CreditManagement\bin\Debug\netcoreapp3.1\CreditManagement.exe
+C:\Users\Tutku Ayavefe\source\repos\Program\CreditManagement\bin\Debug\netcoreapp3.1\CreditManagement.deps.json
+C:\Users\Tutku Ayavefe\source\repos\Program\CreditManagement\bin\Debug\netcoreapp3.1\CreditManagement.runtimeconfig.json
+C:\Users\Tutku Ayavefe\source\repos\Program\CreditManagement\bin\Debug\netcoreapp3.1\CreditManagement.runtimeconfig.dev.json
+C:\Users\Tutku Ayavefe\source\repos\Program\CreditManagement\bin\Debug\netcoreapp3.1\CreditManagement.dll
+C:\Users\Tutku Ayavefe\source\repos\Program\CreditManagement\bin\Debug\netcoreapp3.1\CreditManagement.pdb
+C:\Users\Tutku Ayavefe\source\repos\Program\CreditManagement\obj\Debug\netcoreapp3.1\CreditManagement.csprojAssemblyReference.cache
+C:\Users\Tutku Ayavefe\source\repos\Program\CreditManagement\obj\Debug\netcoreapp3.1\CreditManagement.AssemblyInfoInputs.cache
+C:\Users\Tutku Ayavefe\source\repos\Program\CreditManagement\obj\Debug\netcoreapp3.1\CreditManagement.AssemblyInfo.cs
+C:\Users\Tutku Ayavefe\source\repos\Program\CreditManagement\obj\Debug\netcoreapp3.1\CreditManagement.csproj.CoreCompileInputs.cache
+C:\Users\Tutku Ayavefe\source\repos\Program\CreditManagement\obj\Debug\netcoreapp3.1\CreditManagement.dll
+C:\Users\Tutku Ayavefe\source\repos\Program\CreditManagement\obj\Debug\netcoreapp3.1\CreditManagement.pdb
+C:\Users\Tutku Ayavefe\source\repos\Program\CreditManagement\obj\Debug\netcoreapp3.1\CreditManagement.genruntimeconfig.cache
